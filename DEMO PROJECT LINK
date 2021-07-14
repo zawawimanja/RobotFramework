@@ -1,1 +1,8 @@
 https://www.tutorialspoint.com/robot_framework/robot_framework_testing_login_page.htm
+
+demo open browser and login
+
+1. user defined keyword - Open Login Page
+2. 2 scalar variable - ${loginpage] ,${browser}
+3. create setup & teardown
+
