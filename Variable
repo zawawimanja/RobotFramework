@@ -1,0 +1,7 @@
+
+scalar variable - to hold value , ${variable name}
+
+list variable - contain array,@{variable name}
+              - @{variable name}[0]
+
+dictionary variable is like map have key - &{variable name}
