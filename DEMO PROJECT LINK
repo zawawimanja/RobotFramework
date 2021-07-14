@@ -7,6 +7,6 @@ demo open browser and login
 2. 2 scalar variable - ${loginpage] ,${browser}
 3. create setup & teardown for main project
 4. template for data driven 
-5. data for test - robot icon
+5. data for test case- robot icon
 
 --------------------------------------------------------
