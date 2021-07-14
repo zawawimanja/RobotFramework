@@ -2,7 +2,9 @@ https://www.tutorialspoint.com/robot_framework/robot_framework_testing_login_pag
 
 demo open browser and login
 
-1. user defined keyword - Open Login Page
+1. user defined keyword - Open Login Page , gear icon
 2. 2 scalar variable - ${loginpage] ,${browser}
 3. create setup & teardown
+4. template for data driven 
+5. data for test - robot icon
 
